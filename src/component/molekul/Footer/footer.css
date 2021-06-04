@@ -1,0 +1,10 @@
+.footer-box{
+    padding: 10px 40px;
+    /* box-shadow: 0px -2px 6px 0px rgba(80, 77, 77, 47); */
+    background-color: #f15757;
+}
+.copyright{
+    text-align: center;
+    font-weight: 500;
+    color: white;
+}

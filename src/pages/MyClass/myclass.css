@@ -1,0 +1,16 @@
+
+.myclass-wrap{
+    padding: 0px 40px;
+}
+.class-box{
+    border: 1px solid #707070;
+    padding: 20px 40px;
+    display: flex;
+}
+.title-class{
+    flex: 1;
+    color: #f15757;
+}
+.graduate-button{
+    width: 150px;
+}

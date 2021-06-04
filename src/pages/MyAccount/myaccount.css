@@ -1,0 +1,56 @@
+.myaccountwrap{
+    padding: 0px 40px;
+}
+.account-box{
+    border: 1px solid #707070;
+    padding: 20px 40px;
+    width: 40%;
+    margin: auto;
+}
+.profile-item{
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.title{
+    width: 160px;
+    max-width: 160px;
+}
+
+#table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#table th{
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #f82f2f;
+        color: white;
+        text-align: center;
+      
+}
+#table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #table tr:nth-child(even){background-color: #f2f2f2;}
+  
+
+  .btnCertificate{
+      background-color: crimson;
+      border: none;
+      color: white;
+      padding: 10px 30px;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+  .linkedIn{
+      cursor: pointer;
+  }

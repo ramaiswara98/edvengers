@@ -1,0 +1,32 @@
+.detail-class-box{
+    border: 1px solid #707070;
+    padding: 20px 40px;
+}
+.first-row{
+    border: 1px solid #707070;
+    padding: 20px 40px;
+    display: flex;
+
+}
+.title-detail-class{
+    text-align: center;
+}
+.title-detail-class{
+    flex: 1;
+}
+.detail-class-button{
+    width:150px;
+}
+.item-event{
+    display: flex;
+    margin-bottom: 20px;
+}
+.item-event-title{
+    width: 170px;
+}
+.button-attend{
+    width: 80px;
+}
+.detail-class-button{
+    margin: auto;
+}

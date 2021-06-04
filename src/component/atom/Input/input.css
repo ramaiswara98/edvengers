@@ -1,0 +1,19 @@
+.input-base{
+    width: 100%;
+}
+.label{
+    font-size: 14px;
+    color: #707070;
+    margin: 0;
+    margin-bottom: 6px;
+}
+
+.input{
+    border: 1px solid grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 10px;
+}
